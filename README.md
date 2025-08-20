@@ -37,7 +37,7 @@ npx cypress open
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/golubovicluka/ecommerce.git
+   git clone https://github.com/WaledGalalM/ecommerce.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -62,4 +62,4 @@ npx cypress open
 
 ## Author
 
-- [@golubovicluka](https://github.com/golubovicluka)
+- [@WaledGalalM](https://github.com/WaledGalalM)
