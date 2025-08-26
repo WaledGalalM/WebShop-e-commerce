@@ -1,5 +1,5 @@
 ## [Demo](https://ecommerce-app-angular.netlify.app/)
-
+# Waled Galal
 # Shoply
 
 Welcome to **Shoply**, an advanced Angular-based ecommerce application designed to provide a seamless shopping experience. This platform enables users to explore a wide range of products with powerful filtering, sorting, and viewing options. Whether you're searching for specific items or browsing through categories, Shoply ensures a user-friendly and efficient shopping journey.
