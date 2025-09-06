@@ -4,7 +4,7 @@
 
 Welcome to **Shoply**, an advanced Angular-based ecommerce application designed to provide a seamless shopping experience. This platform enables users to explore a wide range of products with powerful filtering, sorting, and viewing options. Whether you're searching for specific items or browsing through categories, Shoply ensures a user-friendly and efficient shopping journey.
 
-## Key Features
+## Key Features.
 
 - **Product Catalog**: Browse an extensive range of products, categorized for easy navigation.
 - **Product Details**: Access comprehensive information about each product, including images, descriptions, and prices.
@@ -57,9 +57,9 @@ npx cypress open
    ```bash
    ng serve
    ```
-
-   The application will be available at `http://localhost:4200`.
+ The application will be available at `http://localhost:4200`.
 
 ## Author
 
 - [@WaledGalalM](https://github.com/WaledGalalM)
+##Frontend** Ledo
