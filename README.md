@@ -56,8 +56,8 @@ npx cypress open
 
    ```bash
    ng serve
+   
    ```
- The application will be available at `http://localhost:4200`.
 
 ## Author
 
